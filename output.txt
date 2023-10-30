@@ -1,0 +1,9 @@
+Script started on Mon Oct 30 16:34:32 2023
+^[]0;adtrunzo@r1n10.darwin:~/CISC372_picProject^G^[[?1034h[adtrunzo@r1n10 CISC372_picProject]$ srun imagemp pic1.jpg sharpen^H ^H^H ^H^H ^H^H ^H^H ^H^H ^H^H ^Hedge^M
+Took 7 seconds^M
+^[]0;adtrunzo@r1n10.darwin:~/CISC372_picProject^G[adtrunzo@r1n10 CISC372_picProject]$ str^H ^H^H ^Hrun imagep pic1.jpg edge^M
+Took 6 seconds^M
+^[]0;adtrunzo@r1n10.darwin:~/CISC372_picProject^G[adtrunzo@r1n10 CISC372_picProject]$ exut^H ^H^H ^Hit^M
+exit^M
+
+Script done on Mon Oct 30 16:35:14 2023
